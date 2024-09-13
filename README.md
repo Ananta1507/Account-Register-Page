@@ -2,6 +2,11 @@
 Simple account registration page using create query system
 
 # Dont forget to configure and connect your own database system
+e.g
+1.db name
+2.username
+3.password
+4.etc
 you can also use in frame database system using SQLtool extension in VScode text editor
 
 # Page Preview 
